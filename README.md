@@ -12,7 +12,6 @@ The program provides two options: 'investment' and 'bond'. Users can select one 
 ```
 git clone https://github.com/moeketsisegalo/finance_calculators.git
 ```
-
 2. Open your preferred integrated development environment (IDE) and import the project.(I recommend VS Code)
 
 3. Ensure that you have Python installed on your system.
@@ -59,6 +58,9 @@ The total amount of compound interest earned is: R6341.16
 
 Output:
 The total monthly repayment amount is: R2463.32
+
+
+
 
 
 
