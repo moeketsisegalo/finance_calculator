@@ -6,6 +6,24 @@ This program allows users to calculate the amount of interest on their investmen
 
 The program provides two options: 'investment' and 'bond'. Users can select one of these options to perform the corresponding calculation.
 
+## Installation
+
+1. Clone the repository to your local machine:
+```
+git clone https://github.com/your-username/finance-calculators.git
+```
+
+2. Open your preferred integrated development environment (IDE) and import the project.(I recommend VS Code)
+
+3. Ensure that you have Python installed on your system.
+4. To run the program from your IDE:
+
+* Open the `finance_calculators.py` file.
+* Run the program from your IDE's run or execute command.
+
+Make sure that Python is properly configured in your IDE and that the necessary dependencies are installed.
+
+
 ## Usage
 
 1. To calculate the interest on your investment:
