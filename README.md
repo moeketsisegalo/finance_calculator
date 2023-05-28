@@ -10,7 +10,7 @@ The program provides two options: 'investment' and 'bond'. Users can select one 
 
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/your-username/finance-calculators.git
+git clone https://github.com/moeketsisegalo/finance_calculators.git
 ```
 
 2. Open your preferred integrated development environment (IDE) and import the project.(I recommend VS Code)
