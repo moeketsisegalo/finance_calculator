@@ -34,7 +34,7 @@ Make sure that Python is properly configured in your IDE and that the necessary 
 2. Open the terminal or command prompt and navigate to the directory where the README.md file is located.
 3. Build the Docker image by running the following command in the terminal 
 ```
-docker build -t python-app ./
+docker build -t finance_calculator ./
 ```
 
 4.Once the Docker image is built successfully, you can run the application using the following command:
