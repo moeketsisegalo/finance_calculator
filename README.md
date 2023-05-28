@@ -45,6 +45,9 @@ docker build -t finance_calculator ./
 docker run -it finance_calculator
 ```
 
+![Run App](Screenshots/run_app.png)
+
+
 
 ## Usage
 
