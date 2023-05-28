@@ -20,6 +20,9 @@ git clone https://github.com/moeketsisegalo/finance_calculators.git
 * Open the `finance_calculators.py` file.
 * Run the program from your IDE's run or execute command.
 
+
+
+
 Make sure that Python is properly configured in your IDE and that the necessary dependencies are installed.
 5.To run the program from the Dockerfile
 
