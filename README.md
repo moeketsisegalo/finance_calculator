@@ -21,6 +21,26 @@ git clone https://github.com/moeketsisegalo/finance_calculators.git
 * Run the program from your IDE's run or execute command.
 
 Make sure that Python is properly configured in your IDE and that the necessary dependencies are installed.
+5.To run the program from the Dockerfile
+
+
+## Running application from Dockerfile
+
+### Prerequisites
+
+- Docker: Make sure you have Docker installed on your system. You can download Docker from the official website: https://www.docker.com/
+
+1. Clone or download the project repository
+2. Open the terminal or command prompt and navigate to the directory where the README.md file is located.
+3. Build the Docker image by running the following command in the terminal 
+```
+docker build -t python-app ./
+```
+
+4.Once the Docker image is built successfully, you can run the application using the following command:
+```
+docker run -it finance_calculator
+```
 
 
 ## Usage
