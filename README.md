@@ -37,6 +37,9 @@ Make sure that Python is properly configured in your IDE and that the necessary 
 docker build -t finance_calculator ./
 ```
 
+ ![Build App](Screenshots/build_app.png)
+
+
 4.Once the Docker image is built successfully, you can run the application using the following command:
 ```
 docker run -it finance_calculator
