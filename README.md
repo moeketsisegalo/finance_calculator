@@ -20,6 +20,7 @@ git clone https://github.com/moeketsisegalo/finance_calculators.git
 * Open the `finance_calculators.py` file.
 * Run the program from your IDE's run or execute command.
 
+![Build App](Screenshots/run_IDE.png)
 
 
 
