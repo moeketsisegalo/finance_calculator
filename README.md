@@ -90,6 +90,11 @@ Output:
 The total monthly repayment amount is: R2463.32
 
 
+## Credits
+
+Author: Moeketsi Segalo
+
+This project was developed solely by myself, Moeketsi Segalo, using Python. I would like to express my gratitude to HyperionDev for their invaluable teaching and guidance throughout my learning journey. Their courses and resources have played a significant role in enhancing my skills and knowledge in software development.
 
 
 
